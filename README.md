@@ -1,5 +1,6 @@
 # GUI-email-sending-application-with-thread
 1. You must have an gmail account.
+   * Read python smtp [Document](https://docs.python.org/3/library/smtplib.html).
 2. Go to [this](https://myaccount.google.com/lesssecureapps) website to enable less secure app. you might be thinking that why should I need to click 'less secure my app' cause this authentication only for to log in you gmail to send mail.
 ![less secure](https://i.ibb.co/0FVtsvm/less-secure.png)
 

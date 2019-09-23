@@ -8,7 +8,7 @@ class App(Tk):
         self.geometry('600x600')
         self.title('Mail services')
         # main canvas
-        self.root = Canvas(self)
+        self.root = Canvas(self, bg='DodgerBlue')
         self.root.place(relx=0, rely=0, relwidth=1, relheight=1)
 
         # to frame
